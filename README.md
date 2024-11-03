@@ -1,7 +1,7 @@
 # fichiers_d_exercice_tensorflow
 # Mon Parcours en Deep Learning 🚀
 
-Projet pour apprendre deep learning , Tensorflow 
+Learning deep learning , Tensorflow 
 
 📅  Formation LinkedIn en Deep Learning
 Je suis actuellement en train de suivre une formation sur LinkedIn Learning pour approfondir mes connaissances en Deep Learning, notamment en utilisant l'architecture Multi-Layer Perceptron (MLP) avec Keras.
